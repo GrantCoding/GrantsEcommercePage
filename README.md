@@ -1,4 +1,4 @@
-# GrantsEcommercePage - Akhil Sharma's youtube video followed throughout the process
+# GrantsEcommerceProject - Akhil Sharma's youtube video followed throughout the process
 
 Video Link - https://youtu.be/7hOfR6wHMaw?si=XZoVK8sjh47ugt_1
 
